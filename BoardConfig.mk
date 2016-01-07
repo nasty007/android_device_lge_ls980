@@ -26,4 +26,4 @@ G2_DTS_TARGET := msm8974-g2-spr
 USE_PREBUILT_CHROMIUM := true
 
 # RIL
-BOARD_RIL_CLASS := ../../../device/lge/ls980/ril/
+BOARD_RIL_CLASS += ../../../device/lge/ls980/ril/
